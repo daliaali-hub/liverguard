@@ -1,0 +1,224 @@
+[
+  {
+    "drug_name": "panadol",
+    "active_ingredient": "acetaminophen",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Common cause of acute liver injury in overdose. Safe in therapeutic doses under 2g/day for liver patients.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548162/",
+    "chunk_id": "CHUNK-LIVERTOX-PANADOL-01"
+  },
+  {
+    "drug_name": "tylenol",
+    "active_ingredient": "acetaminophen",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Requires strict dose reduction (max 2g/day) in patients with cirrhosis or chronic liver disease.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548162/",
+    "chunk_id": "CHUNK-LIVERTOX-TYLENOL-01"
+  },
+  {
+    "drug_name": "augmentin",
+    "active_ingredient": "amoxicillin and clavulanate",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Leading cause of idiosyncratic drug-induced liver injury (DILI). Can cause cholestatic jaundice.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548517/",
+    "chunk_id": "CHUNK-LIVERTOX-AUGMENTIN-01"
+  },
+  {
+    "drug_name": "lipitor",
+    "active_ingredient": "atorvastatin",
+    "hepatotoxicity_score": "Category E*",
+    "summary": "Can cause mild transient serum aminotransferase elevations. Severe liver injury is rare.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548236/",
+    "chunk_id": "CHUNK-LIVERTOX-LIPITOR-01"
+  },
+  {
+    "drug_name": "voltaren",
+    "active_ingredient": "diclofenac",
+    "hepatotoxicity_score": "Category A",
+    "summary": "NSAID that frequently causes elevated liver enzymes; requires monitoring in chronic hepatopathy.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547953/",
+    "chunk_id": "CHUNK-LIVERTOX-VOLTAREN-01"
+  },
+  {
+    "drug_name": "advil",
+    "active_ingredient": "ibuprofen",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Rare cause of clinically apparent liver injury. Generally safer than diclofenac for liver.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547845/"
+  },
+  {
+    "drug_name": "metformin",
+    "active_ingredient": "metformin",
+    "hepatotoxicity_score": "Category E",
+    "summary": "Rarely causes liver injury, but contraindicated in severe cirrhosis due to lactic acidosis risk.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548726/"
+  },
+  {
+    "drug_name": "amoxil",
+    "active_ingredient": "amoxicillin",
+    "hepatotoxicity_score": "Category B",
+    "summary": "Alone is rarely hepatotoxic, unlike when combined with clavulanic acid (Augmentin).",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547854/"
+  },
+  {
+    "drug_name": "zithromax",
+    "active_ingredient": "azithromycin",
+    "hepatotoxicity_score": "Category B",
+    "summary": "Known to cause mild transient liver enzyme elevation and rare cholestatic hepatitis.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548434/"
+  },
+  {
+    "drug_name": "cipro",
+    "active_ingredient": "ciprofloxacin",
+    "hepatotoxicity_score": "Category B",
+    "summary": "Can cause acute liver injury with short latency, usually self-limiting upon discontinuation.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548066/"
+  },
+  {
+    "drug_name": "bactrim",
+    "active_ingredient": "sulfamethoxazole and trimethoprim",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Well-known cause of drug-induced liver injury, often presenting as cholestatic hepatitis.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547937/"
+  },
+  {
+    "drug_name": "diflucan",
+    "active_ingredient": "fluconazole",
+    "hepatotoxicity_score": "Category B",
+    "summary": "Associated with transient mild elevations in ALT/AST; severe necrosis is rare but reported.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548300/"
+  },
+  {
+    "drug_name": "nexium",
+    "active_ingredient": "esomeprazole",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Extremely rare cause of hepatic injury. Generally safe in liver patients with mild monitoring.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548771/"
+  },
+  {
+    "drug_name": "crestor",
+    "active_ingredient": "rosuvastatin",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Low rate of enzyme elevation. Safe for hepatic steatosis but monitor baseline enzymes.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548620/"
+  },
+  {
+    "drug_name": "aleve",
+    "active_ingredient": "naproxen",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Uncommon cause of liver injury; caution in advanced liver disease due to renal-hepatic complications.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548159/"
+  },
+  {
+    "drug_name": "methotrexate",
+    "active_ingredient": "methotrexate",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Direct toxic effect causing liver fibrosis and cirrhosis with prolonged chronic use.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548219/"
+  },
+  {
+    "drug_name": "tegretol",
+    "active_ingredient": "carbamazepine",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Associated with anticonvulsant hypersensitivity syndrome leading to severe hepatic damage.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548097/"
+  },
+  {
+    "drug_name": "depakote",
+    "active_ingredient": "valproic acid",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Black box warning for fatal hepatotoxicity, particularly in young children and mitochondrial disorders.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548284/"
+  },
+  {
+    "drug_name": "amiodarone",
+    "active_ingredient": "amiodarone",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Causes microvesicular steatosis and pseudo-alcoholic hepatitis in up to 3% of patients.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548109/"
+  },
+  {
+    "drug_name": " isoniazid",
+    "active_ingredient": "isoniazid",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Major cause of drug-induced liver injury; risk increases significantly with age and alcohol consumption.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548754/"
+  },
+  {
+    "drug_name": "rifampin",
+    "active_ingredient": "rifampin",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Causes transient hyperbilirubinemia and exacerbates hepatotoxicity when combined with isoniazid.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548545/"
+  },
+  {
+    "drug_name": "klonopin",
+    "active_ingredient": "clonazepam",
+    "hepatotoxicity_score": "Category D",
+    "summary": "Rarely implicated in liver injury; metabolized by liver so dose adjustment needed in failure.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548232/"
+  },
+  {
+    "drug_name": "xanax",
+    "active_ingredient": "alprazolam",
+    "hepatotoxicity_score": "Category D",
+    "summary": "Hepatic impairment slows clearance; minimal intrinsic liver toxicity reported.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548777/"
+  },
+  {
+    "drug_name": "plavix",
+    "active_ingredient": "clopidogrel",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Uncommon cause of idiosyncratic cholestatic jaundice, usually starting within 1-6 weeks.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548168/"
+  },
+  {
+    "drug_name": "cozaar",
+    "active_ingredient": "losartan",
+    "hepatotoxicity_score": "Category D",
+    "summary": "Very rare cause of liver dysfunction; lower starting doses recommended for hepatic impairment.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547842/"
+  },
+  {
+    "drug_name": "norvasc",
+    "active_ingredient": "amlodipine",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Rare instances of acute cholestatic injury. Requires dose reduction in severe hepatic failure.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548585/"
+  },
+  {
+    "drug_name": "zyloprim",
+    "active_ingredient": "allopurinol",
+    "hepatotoxicity_score": "Category A",
+    "summary": "Part of allopurinol hypersensitivity syndrome causing hepatic granulomas or severe necrosis.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548098/"
+  },
+  {
+    "drug_name": "humira",
+    "active_ingredient": "adalimumab",
+    "hepatotoxicity_score": "Category B",
+    "summary": "Can trigger reactivation of Hepatitis B; occasional acute liver injury reported.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548542/"
+  },
+  {
+    "drug_name": "synthroid",
+    "active_ingredient": "levothyroxine",
+    "hepatotoxicity_score": "Category E",
+    "summary": "Physiological hormone; negligible risk of hepatotoxicity at therapeutic doses.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548497/"
+  },
+  {
+    "drug_name": "prozac",
+    "active_ingredient": "fluoxetine",
+    "hepatotoxicity_score": "Category C",
+    "summary": "Low incidence of mild, transient transaminase elevations; rarely causes acute hepatitis.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK548010/"
+  },
+  {
+    "drug_name": "brufen",
+    "active_ingredient": "ibuprofen",
+    "hepatotoxicity_score": "Category A",
+    "summary": "NSAID; associated with acute liver injury, GI bleeding, and hepatorenal risk in hepatic impairment.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK547845/"
+  }
+]
