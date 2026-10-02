@@ -19,22 +19,6 @@ Fallback mode: the app keeps working without an API key or without internet.
 
 Python · Streamlit · OpenAI API (GPT-4o-mini) · openFDA API · RxNav API · requests
 
-How to run
-bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. (Optional) enable the LLM summary
-export OPENAI_API_KEY="your_key_here"
-
-# 3. Run the web app
-streamlit run app.py
-
-# Or run the command-line version
-python main.py
-
-Without OPENAI_API_KEY, the app uses the template-based summary.
-
 Limitations
 Prototype scale: the local FDA fallback covers only a few drugs, and the rule list is small.
 Retrieval is name-based lookup, not semantic search.
