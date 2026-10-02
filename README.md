@@ -16,20 +16,6 @@ Safe refusal: if no verified record is found, the app refuses instead of guessin
 Fail-safe default: unknown drugs are never labeled "Safe"; they default to Caution.
 Grounded generation: the LLM is instructed not to add facts that are not in the retrieved context.
 Fallback mode: the app keeps working without an API key or without internet.
-Project structure
-liverguard/
-├── app.py                  # Streamlit interface
-├── main.py                 # Command-line version of the pipeline
-├── requirements.txt
-├── data/
-│   └── livertox_data.json  # Local LiverTox dataset
-└── src/
-    ├── rxnav_api.py        # Brand name -> active ingredient
-    ├── fda_api.py          # openFDA label warnings
-    ├── retriever.py        # Combines FDA + LiverTox into one context
-    ├── guardrails.py       # Risk rules and safety verdicts
-    └── llm_generator.py    # Grounded summary (OpenAI or fallback)
-Tech stack
 
 Python · Streamlit · OpenAI API (GPT-4o-mini) · openFDA API · RxNav API · requests
 
