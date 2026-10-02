@@ -2,7 +2,6 @@
 
 A clinical drug-safety assistant for patients with liver disease. Enter a drug name (brand or generic) and LiverGuard returns a safety verdict, a grounded clinical summary, and the sources behind it.
 
-Built during a hackathon: [HACKATHON NAME] · [TEAM / SOLO] · [RESULT, if any]
 
 ⚠️ Disclaimer: This is a prototype for educational purposes. It is not a substitute for professional medical advice.
 
